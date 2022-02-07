@@ -1,0 +1,35 @@
+html, body {
+  background: white;
+  color: #666;
+  font-family: "Manrope", sans-serif;
+  font-size: 1em;
+  box-sizing: border-box;
+}
+
+h1 {
+  font-size: 2em;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin-bottom: 2rem;
+  line-height: 1.5em;
+}
+
+.home-page-wrapper section {
+  padding: 4rem 0;
+}
+.home-page-wrapper .header {
+  background-color: #00a6da;
+  box-shadow: 5px 10px 10px rgba(0, 0, 0, 0.35);
+}
+.home-page-wrapper .header h1 {
+  color: white;
+  text-align: center;
+  margin-bottom: 0;
+}
+
+.border {
+  border-style: solid;
+  border-width: 3px;
+  border-color: black;
+}
